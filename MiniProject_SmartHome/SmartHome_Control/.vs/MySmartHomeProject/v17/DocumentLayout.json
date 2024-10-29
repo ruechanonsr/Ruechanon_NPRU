@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceCode\\Mini Project\\MySmartHomeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF8B4BC-A85B-46D3-91D8-2F3B8C762342}|MySmartHomeProject\\MySmartHomeProject.csproj|d:\\sourcecode\\mini project\\mysmarthomeproject\\mysmarthomeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF8B4BC-A85B-46D3-91D8-2F3B8C762342}|MySmartHomeProject\\MySmartHomeProject.csproj|solutionrelative:mysmarthomeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF8B4BC-A85B-46D3-91D8-2F3B8C762342}|MySmartHomeProject\\MySmartHomeProject.csproj|D:\\SourceCode\\Mini Project\\MySmartHomeProject\\mysmarthomeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AF8B4BC-A85B-46D3-91D8-2F3B8C762342}|MySmartHomeProject\\MySmartHomeProject.csproj|solutionrelative:mysmarthomeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SourceCode\\Mini Project\\MySmartHomeProject\\MySmartHomeProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MySmartHomeProject\\Form1.cs",
+              "ToolTip": "D:\\SourceCode\\Mini Project\\MySmartHomeProject\\MySmartHomeProject\\Form1.cs [Design]",
+              "RelativeToolTip": "MySmartHomeProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:45:22.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Mini Project\\MySmartHomeProject\\MySmartHomeProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MySmartHomeProject\\Form1.cs",
+              "ToolTip": "D:\\SourceCode\\Mini Project\\MySmartHomeProject\\MySmartHomeProject\\Form1.cs",
+              "RelativeToolTip": "MySmartHomeProject\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:45:23.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

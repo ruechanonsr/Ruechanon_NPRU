@@ -1,0 +1,10 @@
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\bin\Debug\MySmartHomeProject.exe.config
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\bin\Debug\MySmartHomeProject.exe
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\bin\Debug\MySmartHomeProject.pdb
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\obj\Debug\MySmartHomeProject.csproj.AssemblyReference.cache
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\obj\Debug\MySmartHomeProject.Form1.resources
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\obj\Debug\MySmartHomeProject.Properties.Resources.resources
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\obj\Debug\MySmartHomeProject.csproj.GenerateResource.cache
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\obj\Debug\MySmartHomeProject.csproj.CoreCompileInputs.cache
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\obj\Debug\MySmartHomeProject.exe
+C:\Coding\Visual Studio\MySmartHomeProject\MySmartHomeProject\obj\Debug\MySmartHomeProject.pdb
