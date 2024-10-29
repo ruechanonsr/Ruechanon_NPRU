@@ -1,6 +1,8 @@
 # Bottle Sorting with Teachable Machine
 
 Dataset from https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+Project Models https://teachablemachine.withgoogle.com/models/TPvJ2kN2W/
+Train Models from https://teachablemachine.withgoogle.com/
 
 ## Overview
 **Bottle Sorting with Teachable Machine** เป็นโปรเจคที่นำเทคโนโลยี Machine Learning เข้ามาช่วยในการแยกประเภทขวดอัตโนมัติ โดยใช้ Teachable Machine ในการฝึกฝนโมเดลเพื่อให้ระบบสามารถแยกแยะขวดได้อย่างแม่นยำและรวดเร็ว ผ่านกระบวนการ Image Processing ซึ่งระบบนี้จะช่วยลดภาระของแรงงานคน เพิ่มความแม่นยำ และเพิ่มความเร็วในการคัดแยกขวดน้ำตามประเภทต่างๆ
