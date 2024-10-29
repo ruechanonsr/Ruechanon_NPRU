@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GithubRepo\\Ruechanon_NPRU\\Ruechanon_NPRU\\MiniProject_SmokeAlert_LINEnotify\\SerialMonitor_VS\\",
+  "WorkspaceRootPath": "D:\\SourceCode\\MiniProject_SmokeAlert_LINEnotify\\MiniProMaxVS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3B447C0-C4EB-4847-AB40-0E40378E07AD}|MiniProMax\\MiniProMax.csproj|d:\\githubrepo\\ruechanon_npru\\ruechanon_npru\\miniproject_smokealert_linenotify\\serialmonitor_vs\\minipromax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D3B447C0-C4EB-4847-AB40-0E40378E07AD}|MiniProMax\\MiniProMax.csproj|d:\\sourcecode\\miniproject_smokealert_linenotify\\minipromaxvs\\minipromax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D3B447C0-C4EB-4847-AB40-0E40378E07AD}|MiniProMax\\MiniProMax.csproj|solutionrelative:minipromax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3B447C0-C4EB-4847-AB40-0E40378E07AD}|MiniProMax\\MiniProMax.csproj|D:\\GithubRepo\\Ruechanon_NPRU\\Ruechanon_NPRU\\MiniProject_SmokeAlert_LINEnotify\\SerialMonitor_VS\\minipromax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3B447C0-C4EB-4847-AB40-0E40378E07AD}|MiniProMax\\MiniProMax.csproj|D:\\SourceCode\\MiniProject_SmokeAlert_LINEnotify\\MiniProMaxVS\\minipromax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3B447C0-C4EB-4847-AB40-0E40378E07AD}|MiniProMax\\MiniProMax.csproj|solutionrelative:minipromax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\GithubRepo\\Ruechanon_NPRU\\Ruechanon_NPRU\\MiniProject_SmokeAlert_LINEnotify\\SerialMonitor_VS\\MiniProMax\\Form1.cs",
+              "DocumentMoniker": "D:\\SourceCode\\MiniProject_SmokeAlert_LINEnotify\\MiniProMaxVS\\MiniProMax\\Form1.cs",
               "RelativeDocumentMoniker": "MiniProMax\\Form1.cs",
-              "ToolTip": "D:\\GithubRepo\\Ruechanon_NPRU\\Ruechanon_NPRU\\MiniProject_SmokeAlert_LINEnotify\\SerialMonitor_VS\\MiniProMax\\Form1.cs",
+              "ToolTip": "D:\\SourceCode\\MiniProject_SmokeAlert_LINEnotify\\MiniProMaxVS\\MiniProMax\\Form1.cs",
               "RelativeToolTip": "MiniProMax\\Form1.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\GithubRepo\\Ruechanon_NPRU\\Ruechanon_NPRU\\MiniProject_SmokeAlert_LINEnotify\\SerialMonitor_VS\\MiniProMax\\Form1.cs",
+              "DocumentMoniker": "D:\\SourceCode\\MiniProject_SmokeAlert_LINEnotify\\MiniProMaxVS\\MiniProMax\\Form1.cs",
               "RelativeDocumentMoniker": "MiniProMax\\Form1.cs",
-              "ToolTip": "D:\\GithubRepo\\Ruechanon_NPRU\\Ruechanon_NPRU\\MiniProject_SmokeAlert_LINEnotify\\SerialMonitor_VS\\MiniProMax\\Form1.cs [Design]",
+              "ToolTip": "D:\\SourceCode\\MiniProject_SmokeAlert_LINEnotify\\MiniProMaxVS\\MiniProMax\\Form1.cs [Design]",
               "RelativeToolTip": "MiniProMax\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T08:01:50.347Z",
