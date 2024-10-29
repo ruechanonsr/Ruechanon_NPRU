@@ -29,4 +29,7 @@ Train Models from https://teachablemachine.withgoogle.com/
 ## การต่อยอด
 - **หากต้องการเพิ่ม class** ให้สามารถคัดแยกประเภทขวดน้ำได้มากขึ้น ให้เทรนด์โมเดลใหม่ แล้วเปลี่ยนโค้ดใน index.html
 
-const URL = "Your Model URL"; // URL ของโมเดลจาก Teachable Machine
+<!-- เพิ่ม URL ของโมเดลที่เทรนด์ใหม่ในส่วนด้านล่าง -->
+<script>
+  const URL = "Your Model URL"; // ใส่ URL โมเดลที่ได้จาก Teachable Machine
+</script>
