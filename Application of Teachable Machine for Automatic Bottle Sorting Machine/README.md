@@ -2,8 +2,6 @@
 
 Dataset from https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 
-![Project Photo](D:\GithubRepo\Ruechanon_NPRU\Ruechanon_NPRU\Bottle Sorting with Teachable Machine\Pictures\IMG_20241016_140011.jpg)
-
 ## Overview
 **Bottle Sorting with Teachable Machine** เป็นโปรเจคที่นำเทคโนโลยี Machine Learning เข้ามาช่วยในการแยกประเภทขวดอัตโนมัติ โดยใช้ Teachable Machine ในการฝึกฝนโมเดลเพื่อให้ระบบสามารถแยกแยะขวดได้อย่างแม่นยำและรวดเร็ว ผ่านกระบวนการ Image Processing ซึ่งระบบนี้จะช่วยลดภาระของแรงงานคน เพิ่มความแม่นยำ และเพิ่มความเร็วในการคัดแยกขวดน้ำตามประเภทต่างๆ
 
@@ -22,5 +20,3 @@ Dataset from https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 - **Python**: สำหรับรันโค้ดในการประมวลผลภาพและสื่อสารกับ Arduino
 - **Arduino**: ใช้ในการควบคุมกระบวนการคัดแยกขวดน้ำ
 - **ServoMotor**: สำหรับใช้หมุนทิศทางของเครื่องคัดแยกขวดน้ำ
-
-![Project Screenshot](D:\GithubRepo\Ruechanon_NPRU\Ruechanon_NPRU\Bottle Sorting with Teachable Machine\Pictures\Screenshot 2024-10-15 232422.png)
