@@ -1,5 +1,7 @@
 # Smart Home Project with Arduino and Visual Studio
 
+Mini Project แจ้งเตือนควันไฟ ถ้าควันไฟมีระดับสูงเกินกำหนดถือว่าอันตราย ให้แจ้งเตือนไปที่ LINE ของเราทันที
+
 ## FOLDER
 - SmokeSensorToLine : โค้ด Arduino ส่งค่าควันไปไปที่ LINE Notify
 - SerialMonitor_toVS : โค้ด C# แสดง Serial Monitor บน Visual Studio
@@ -19,4 +21,4 @@
 #define LINE_TOKEN "Your Token" //ใส่ Token
 ```
 
-ปล. LINE Notify กำลังจะปิดแล้วในเดือนมีนาคมปี 2025 รีบใช้ล่ะ
+ปล. LINE Notify กำลังจะปิดไม่ให้ใช้แล้วในเดือนมีนาคมปี 2025 รีบใช้ล่ะ
