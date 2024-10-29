@@ -1,7 +1,10 @@
 # Bottle Sorting with Teachable Machine
 
+## LINK
 Dataset from https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+
 Project Models https://teachablemachine.withgoogle.com/models/TPvJ2kN2W/
+
 Train Models from https://teachablemachine.withgoogle.com/
 
 ## Overview
