@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teachable Machine with Arduino</title>
+</head>
+<body>
+    <h1>Bottle Sorting</h1>
+
+    <!-- ส่วนของกล้องและผลลัพธ์จากโมเดล -->
+    <div id="webcam-container"></div>
+    <div id="label-container"></div>
+
+    <!-- ส่วนของการแสดงผลลัพธ์และการเชื่อมต่อกับ Arduino -->
+    <h2>Arduino Connection</h2>
+    <button id="connectButton">Connect to Arduino</button>
+    <div id="result">Prediction Result: </div>
+
+    <!-- TensorFlow และ Teachable Machine Library -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+
+    <script type="module">
+        const URL = "https://teachablemachine.withgoogle.com/models/TPvJ2kN2W/";
+        let model, webcam, labelContainer, maxPredictions;
+        let writer, arduinoPort; // สำหรับการเชื่อมต่อกับ Arduino
+
+        // ฟังก์ชันสำหรับโหลดโมเดลและตั้งค่ากล้อง
+        async function init() {
+            const modelURL = URL + "model.json";
+            const metadataURL = URL + "metadata.json";
+
+            model = await tmImage.load(modelURL, metadataURL);
+            maxPredictions = model.getTotalClasses();
+
+            const flip = true;
+            webcam = new tmImage.Webcam(200, 200, flip);
+            await webcam.setup();
+            await webcam.play();
+            window.requestAnimationFrame(loop);
+
+            document.getElementById("webcam-container").appendChild(webcam.canvas);
+            labelContainer = document.getElementById("label-container");
+            for (let i = 0; i < maxPredictions; i++) {
+                labelContainer.appendChild(document.createElement("div"));
+            }
+        }
+
+        async function loop() {
+            webcam.update();
+            await predict();
+            window.requestAnimationFrame(loop);
+        }
+
+        // ฟังก์ชันสำหรับการทำนายและแสดงผลบนหน้าเว็บ
+        async function predict() {
+            const prediction = await model.predict(webcam.canvas);
+            let maxProbability = 0;
+            let maxIndex = -1;
+
+            for (let i = 0; i < maxPredictions; i++) {
+                const classPrediction =
+                    prediction[i].className + ": " + (prediction[i].probability * 100).toFixed(2) + "%";
+                labelContainer.childNodes[i].innerHTML = classPrediction;
+
+                if (prediction[i].probability > maxProbability) {
+                    maxProbability = prediction[i].probability;
+                    maxIndex = i;
+                }
+            }
+
+            if (maxIndex !== -1) {
+                const resultText = "Result: " + prediction[maxIndex].className + " (" + (maxProbability * 100).toFixed(2) + "%)";
+                labelContainer.childNodes[maxIndex].innerHTML += "<br>" + resultText;
+                document.getElementById("result").innerText = "Prediction Result: " + prediction[maxIndex].className;
+
+                // ส่งคำสั่งไปยัง Arduino ตามผลลัพธ์ที่ได้
+                handlePrediction(prediction[maxIndex].className);
+            }
+        }
+
+        // ฟังก์ชันสำหรับจัดการผลลัพธ์และส่งข้อมูลไปยัง Arduino
+        async function handlePrediction(result) {
+            if (result === "Plastic") {
+                await sendCommandToArduino("plastic\n");
+            } 
+            
+            else if (result === "Cans") {
+                await sendCommandToArduino("cans\n");
+            }
+
+            else if (result === "Empty") {
+                await sendCommandToArduino("empty\n");
+            }
+        }
+
+        // ฟังก์ชันสำหรับเชื่อมต่อกับ Arduino
+        async function connectArduino() {
+            try {
+                const port = await navigator.serial.requestPort();
+                await port.open({ baudRate: 9600 });
+                writer = port.writable.getWriter(); // เข้าถึง writer ของ Arduino เพื่อส่งข้อมูล
+                console.log("Arduino connected");
+            } catch (error) {
+                console.error("Failed to connect to Arduino: ", error);
+            }
+        }
+
+        // ฟังก์ชันสำหรับส่งคำสั่งไปยัง Arduino
+        async function sendCommandToArduino(command) {
+            if (writer) {
+                const encoder = new TextEncoder();
+                await writer.write(encoder.encode(command));
+                console.log("Command sent: " + command);
+            } else {
+                console.error("Arduino not connected");
+            }
+        }
+
+        // เมื่อคลิกปุ่ม Connect Arduino
+        document.getElementById("connectButton").addEventListener("click", connectArduino);
+
+        // เริ่มต้นโหลดโมเดลและตั้งค่ากล้องเมื่อหน้าเว็บพร้อม
+        window.onload = init;
+    </script>
+</body>
+</html>
