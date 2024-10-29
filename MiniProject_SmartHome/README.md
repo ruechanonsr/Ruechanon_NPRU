@@ -1,4 +1,6 @@
-# Smart Home Project with Arduino and Visual Studio
+# Smart Home with Arduino and Visual Studio
+
+Mini Project บ้านอัจฉริยะ แสดงค่าอุณหภูมิ ความชื่นของบ้านบน Visual Studio พร้อมกราฟ สามารถสั่งเปิด-ปิดไฟได้ด้วย และแสดงค่าอุณหภูมิบนจอ LCD และไฟจะเปลี่ยนสีหากอุณหภูมิร้อนหรือเย็น
 
 ## FOLDER
 - SmartHome_Control : โค้ดแสดงค่าต่างๆบน Visual Studio 
