@@ -1,4 +1,4 @@
-# Smart Home Project with Arduino and Visual Studio
+# Smoke Alert with LINE Notify
 
 Mini Project แจ้งเตือนควันไฟ ถ้าควันไฟมีระดับสูงเกินกำหนดถือว่าอันตราย ให้แจ้งเตือนไปที่ LINE ของเราทันที
 
