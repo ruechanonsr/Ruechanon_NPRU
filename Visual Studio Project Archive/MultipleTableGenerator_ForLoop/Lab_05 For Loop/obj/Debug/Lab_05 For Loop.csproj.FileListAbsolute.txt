@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\bin\Debug\Lab_05 For Loop.exe.config
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\bin\Debug\Lab_05 For Loop.exe
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\bin\Debug\Lab_05 For Loop.pdb
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\obj\Debug\Lab_05_For_Loop.Form1.resources
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\obj\Debug\Lab_05_For_Loop.Properties.Resources.resources
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\obj\Debug\Lab_05 For Loop.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\obj\Debug\Lab_05 For Loop.exe
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\obj\Debug\Lab_05 For Loop.pdb
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\obj\Debug\Lab_05 For Loop.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Lab_05 For Loop\Lab_05 For Loop\obj\Debug\Lab_05 For Loop.csproj.CoreCompileInputs.cache

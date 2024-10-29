@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceCode\\Visual Studio\\Lab_05 For Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{646D2CF3-F6E3-4CC8-B9D2-B18E7B8CD0C0}|Lab_05 For Loop\\Lab_05 For Loop.csproj|D:\\SourceCode\\Visual Studio\\Lab_05 For Loop\\lab_05 for loop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{646D2CF3-F6E3-4CC8-B9D2-B18E7B8CD0C0}|Lab_05 For Loop\\Lab_05 For Loop.csproj|solutionrelative:lab_05 for loop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646D2CF3-F6E3-4CC8-B9D2-B18E7B8CD0C0}|Lab_05 For Loop\\Lab_05 For Loop.csproj|d:\\sourcecode\\visual studio\\lab_05 for loop\\lab_05 for loop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646D2CF3-F6E3-4CC8-B9D2-B18E7B8CD0C0}|Lab_05 For Loop\\Lab_05 For Loop.csproj|solutionrelative:lab_05 for loop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\SourceCode\\Visual Studio\\Lab_05 For Loop\\Lab_05 For Loop\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_05 For Loop\\Form1.cs",
+              "ToolTip": "D:\\SourceCode\\Visual Studio\\Lab_05 For Loop\\Lab_05 For Loop\\Form1.cs",
+              "RelativeToolTip": "Lab_05 For Loop\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T12:16:35.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SourceCode\\Visual Studio\\Lab_05 For Loop\\Lab_05 For Loop\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_05 For Loop\\Form1.cs",
+              "ToolTip": "D:\\SourceCode\\Visual Studio\\Lab_05 For Loop\\Lab_05 For Loop\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab_05 For Loop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T12:16:36.238Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

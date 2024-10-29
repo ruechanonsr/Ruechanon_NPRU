@@ -1,0 +1,53 @@
+D:\Microsoft Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe.config
+D:\Microsoft Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe
+D:\Microsoft Visual Studio\FoodOrder\bin\Debug\FoodOrder.pdb
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.Form1.resources
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.Properties.Resources.resources
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.exe
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.pdb
+D:\Microsoft Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe.config
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\bin\Debug\FoodOrder.pdb
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.AssemblyReference.cache
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Form1.resources
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Properties.Resources.resources
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.GenerateResource.cache
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.CoreCompileInputs.cache
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.exe
+C:\Users\Ruechanon\Desktop\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.pdb
+D:\Project\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe.config
+D:\Project\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe
+D:\Project\Visual Studio\FoodOrder\bin\Debug\FoodOrder.pdb
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.AssemblyReference.cache
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.SuggestedBindingRedirects.cache
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Form1.resources
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Properties.Resources.resources
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.GenerateResource.cache
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.exe
+D:\Project\Visual Studio\FoodOrder\obj\Debug\FoodOrder.pdb
+D:\Code\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe.config
+D:\Code\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe
+D:\Code\Visual Studio\FoodOrder\bin\Debug\FoodOrder.pdb
+D:\Code\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Form1.resources
+D:\Code\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Properties.Resources.resources
+D:\Code\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.GenerateResource.cache
+D:\Code\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\FoodOrder\obj\Debug\FoodOrder.exe
+D:\Code\Visual Studio\FoodOrder\obj\Debug\FoodOrder.pdb
+D:\SourceCode\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe.config
+D:\SourceCode\Visual Studio\FoodOrder\bin\Debug\FoodOrder.exe
+D:\SourceCode\Visual Studio\FoodOrder\bin\Debug\FoodOrder.pdb
+D:\SourceCode\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.AssemblyReference.cache
+D:\SourceCode\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Form1.resources
+D:\SourceCode\Visual Studio\FoodOrder\obj\Debug\FoodOrder.Properties.Resources.resources
+D:\SourceCode\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.GenerateResource.cache
+D:\SourceCode\Visual Studio\FoodOrder\obj\Debug\FoodOrder.csproj.CoreCompileInputs.cache
+D:\SourceCode\Visual Studio\FoodOrder\obj\Debug\FoodOrder.exe
+D:\SourceCode\Visual Studio\FoodOrder\obj\Debug\FoodOrder.pdb

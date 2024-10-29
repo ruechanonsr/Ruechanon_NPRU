@@ -1,0 +1,20 @@
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\bin\Debug\Lab_07 While Loop.exe.config
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\bin\Debug\Lab_07 While Loop.exe
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\bin\Debug\Lab_07 While Loop.pdb
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07_While_Loop.Form1.resources
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07_While_Loop.Properties.Resources.resources
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.exe
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.pdb
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.csproj.CoreCompileInputs.cache
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\bin\Debug\Lab_07 While Loop.exe.config
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\bin\Debug\Lab_07 While Loop.exe
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\bin\Debug\Lab_07 While Loop.pdb
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.csproj.AssemblyReference.cache
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07_While_Loop.Form1.resources
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07_While_Loop.Properties.Resources.resources
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.csproj.GenerateResource.cache
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.csproj.CoreCompileInputs.cache
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.exe
+D:\SourceCode\Visual Studio\Lab_07 While Loop\Lab_07 While Loop\obj\Debug\Lab_07 While Loop.pdb

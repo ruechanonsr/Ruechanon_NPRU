@@ -1,0 +1,42 @@
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe.config
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.pdb
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Properties.Resources.resources
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.exe
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.pdb
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Group_radio.resources
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe.config
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.pdb
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.AssemblyReference.cache
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Group_radio.resources
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Properties.Resources.resources
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.GenerateResource.cache
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.CoreCompileInputs.cache
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.exe
+G:\My Drive\Study\NPRU\Year 3\(1) Object-oriented Programming\Lab\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.pdb
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe.config
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.pdb
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Group_radio.resources
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Properties.Resources.resources
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.GenerateResource.cache
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.exe
+D:\Code\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.pdb
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe.config
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.exe
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\bin\Debug\Lab_08_Group_Radio.pdb
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.AssemblyReference.cache
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Group_radio.resources
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.Properties.Resources.resources
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.GenerateResource.cache
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.csproj.CoreCompileInputs.cache
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.exe
+D:\SourceCode\Visual Studio\Lab_08_Group_Radio\Lab_08_Group_Radio\obj\Debug\Lab_08_Group_Radio.pdb

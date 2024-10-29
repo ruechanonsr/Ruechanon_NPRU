@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\bin\Debug\Lab_06 Pyramid Number.exe.config
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\bin\Debug\Lab_06 Pyramid Number.exe
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\bin\Debug\Lab_06 Pyramid Number.pdb
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\obj\Debug\Lab_06_Pyramid_Number.Form1.resources
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\obj\Debug\Lab_06_Pyramid_Number.Properties.Resources.resources
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\obj\Debug\Lab_06 Pyramid Number.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\obj\Debug\Lab_06 Pyramid Number.exe
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\obj\Debug\Lab_06 Pyramid Number.pdb
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\obj\Debug\Lab_06 Pyramid Number.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Lab_06 Pyramid Number\Lab_06 Pyramid Number\obj\Debug\Lab_06 Pyramid Number.csproj.CoreCompileInputs.cache

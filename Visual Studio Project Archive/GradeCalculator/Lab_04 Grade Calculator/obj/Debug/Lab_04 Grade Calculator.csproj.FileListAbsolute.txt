@@ -1,0 +1,30 @@
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.exe.config
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04_Grade_Calculator.Properties.Resources.resources
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.exe
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.pdb
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.exe
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.pdb
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04_Grade_Calculator.GradeCal.resources
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.exe.config
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.exe
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.pdb
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04_Grade_Calculator.GradeCal.resources
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04_Grade_Calculator.Properties.Resources.resources
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.GenerateResource.cache
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.exe
+D:\Code\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.pdb
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.exe.config
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.exe
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\bin\Debug\Lab_04 Grade Calculator.pdb
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.AssemblyReference.cache
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04_Grade_Calculator.GradeCal.resources
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04_Grade_Calculator.Properties.Resources.resources
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.GenerateResource.cache
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.csproj.CoreCompileInputs.cache
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.exe
+D:\SourceCode\Visual Studio\Lab_04 Grade Calculator\Lab_04 Grade Calculator\obj\Debug\Lab_04 Grade Calculator.pdb
