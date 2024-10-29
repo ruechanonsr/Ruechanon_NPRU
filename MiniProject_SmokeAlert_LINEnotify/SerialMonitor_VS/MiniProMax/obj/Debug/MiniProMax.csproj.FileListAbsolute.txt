@@ -1,0 +1,28 @@
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\bin\Debug\MiniProMax.exe.config
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\bin\Debug\MiniProMax.exe
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\bin\Debug\MiniProMax.pdb
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\bin\Debug\System.IO.Ports.dll
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\bin\Debug\System.IO.Ports.xml
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.csproj.AssemblyReference.cache
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.Form1.resources
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.Properties.Resources.resources
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.csproj.GenerateResource.cache
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.csproj.CoreCompileInputs.cache
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.csproj.CopyComplete
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.exe
+C:\Users\66650\OneDrive\เดสก์ท็อป\MiniProMax\MiniProMax\obj\Debug\MiniProMax.pdb
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\bin\Debug\MiniProMax.exe.config
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\bin\Debug\MiniProMax.exe
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\bin\Debug\MiniProMax.pdb
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\bin\Debug\System.IO.Ports.dll
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\bin\Debug\System.IO.Ports.xml
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.csproj.AssemblyReference.cache
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.csproj.SuggestedBindingRedirects.cache
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.Form1.resources
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.Properties.Resources.resources
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.csproj.GenerateResource.cache
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.csproj.CoreCompileInputs.cache
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.csproj.CopyComplete
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.exe
+D:\Study\Year 3\Mini Project\MaxMiniProject\MiniProMaxVS\MiniProMax\obj\Debug\MiniProMax.pdb
