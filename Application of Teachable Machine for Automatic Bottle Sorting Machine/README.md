@@ -1,4 +1,4 @@
-# Bottle Sorting with Teachable Machine
+# Application of Teachable Machine for Automatic Bottle Sorting Machine
 
 ## LINK
 Dataset from https://www.kaggle.com/datasets/mostafaabla/garbage-classification
@@ -12,7 +12,7 @@ Train Models from https://teachablemachine.withgoogle.com/
 
 ## Features
 - **การแยกขวดอัตโนมัติ**: ใช้ Teachable Machine เพื่อตรวจจับและแยกประเภทขวด เช่น ขวดพลาสติกและขวดแก้ว
-- **เพิ่มประสิทธิภาพในการแยกขวด**: ระบบที่พัฒนานี้สามารถแยกขวดได้อย่างรวดเร็วและแม่นยำเมื่อเทียบกับการใช้แรงงานคน
+- **เพิ่มประสิทธิภาพในการแยกขวดน้ำ**: ระบบที่พัฒนานี้สามารถแยกขวดได้อย่างรวดเร็วและแม่นยำเมื่อเทียบกับการใช้แรงงานคน
 - **ลดความผิดพลาด**: ด้วยการใช้ Machine Learning สามารถลดข้อผิดพลาดที่เกิดจากมนุษย์และเพิ่มความเสถียรของการทำงาน
 
 ## Project Structure
@@ -22,7 +22,6 @@ Train Models from https://teachablemachine.withgoogle.com/
 
 ## Prerequisites
 - **Teachable Machine**: สำหรับฝึกโมเดล Machine Learning
-- **Python**: สำหรับรันโค้ดในการประมวลผลภาพและสื่อสารกับ Arduino
 - **Arduino**: ใช้ในการควบคุมกระบวนการคัดแยกขวดน้ำ
 - **ServoMotor**: สำหรับใช้หมุนทิศทางของเครื่องคัดแยกขวดน้ำ
 
@@ -30,5 +29,5 @@ Train Models from https://teachablemachine.withgoogle.com/
 - **หากต้องการเพิ่ม class** ให้สามารถคัดแยกประเภทขวดน้ำได้มากขึ้น ให้เทรนด์โมเดลใหม่ แล้วเปลี่ยนโค้ดใน index.html
 
 ```
-const URL = "Your Model URL"; // ใส่ URL โมเดลที่ได้จาก Teachable Machine
+    const URL = "Your Model URL"; // ใส่ URL โมเดลที่ได้จาก Teachable Machine
 ```
