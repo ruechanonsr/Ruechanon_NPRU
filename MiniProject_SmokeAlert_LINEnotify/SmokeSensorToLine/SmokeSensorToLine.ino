@@ -1,9 +1,9 @@
 #include <TridentTD_LineNotify.h>
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
-#define WIFI_SSID "vivo" //ชื่อ WIFI ที่ต้องการใช้
-#define WIFI_PASSWORD "11092544" //รหัส WIFI
-#define LINE_TOKEN "bDmZRWGpK4l1YLaZU1SkPXlywi0jBI3qR5E1gPYj9le" //Token ที่ได้จากการออก
+#define WIFI_SSID " " //ชื่อ WIFI ที่ต้องการใช้
+#define WIFI_PASSWORD " " //รหัส WIFI
+#define LINE_TOKEN "Your Token" //Token ที่ได้จากการออก
 #define SENSOR_PIN A0
 
 void setup() {
